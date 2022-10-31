@@ -1,0 +1,8 @@
+C:\Users\kinke\OneDrive\Desktop\MSSA\MortgageCalc\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe.config
+C:\Users\kinke\OneDrive\Desktop\MSSA\MortgageCalc\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe
+C:\Users\kinke\OneDrive\Desktop\MSSA\MortgageCalc\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.pdb
+C:\Users\kinke\OneDrive\Desktop\MSSA\MortgageCalc\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.AssemblyReference.cache
+C:\Users\kinke\OneDrive\Desktop\MSSA\MortgageCalc\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kinke\OneDrive\Desktop\MSSA\MortgageCalc\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kinke\OneDrive\Desktop\MSSA\MortgageCalc\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.exe
+C:\Users\kinke\OneDrive\Desktop\MSSA\MortgageCalc\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
